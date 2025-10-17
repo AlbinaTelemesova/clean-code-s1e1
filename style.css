@@ -20,7 +20,8 @@ body {
 }
 
 @media (max-width:768px) {
-  .section-info { text-align: center;
+  .section-info { 
+    text-align: center;
   }
 }
 .main-section {
